@@ -8,9 +8,9 @@ export const Container = styled.button`
   border: 2px solid var(--black);
   font-family: "Roboto Mono", monospace;
   margin-top: 16px;
+  width: 100%;
+  transition: 0.5s;
   :hover {
     border: 2px solid #c85311;
   }
-  width: 100%;
-  transition: 0.5s;
 `;
