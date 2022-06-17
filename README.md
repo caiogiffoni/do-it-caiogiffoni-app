@@ -5,7 +5,7 @@
 
 
 ## 💻 Projeto
-Aplicação qde lista de tarefas.
+Aplicação de lista de tarefas.
 
 ## 🔨 Implementações
 
